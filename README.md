@@ -1,0 +1,2 @@
+# LumosNote
+Note taking app
